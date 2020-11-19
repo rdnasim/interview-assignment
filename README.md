@@ -1,3 +1,7 @@
+## Requirements
+
+Python 3+, python-pip, virtualenv, postman, flask, sqlite 
+
 # Instalation
 
 First, Download Postman and Install it (from here - https://www.postman.com/downloads/) 
